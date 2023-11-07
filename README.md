@@ -2,7 +2,7 @@
 
 ### (angel-dev-projects) 👋💻
 # **WHO AM I?**
-A Fullstack Web Developer with a focus on creating exceptional digital experiences
+A Full Stack Web Developer with a focus on creating exceptional digital experiences
 
 - With a strong foundation in both front-end and back-end technologies, I craft immersive digital experiences from concept to realization.
 - My passion for creating elegant user interfaces meets my love for architecting robust server-side systems, resulting in a holistic approach to building web solutions. 
