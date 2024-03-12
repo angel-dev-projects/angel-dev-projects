@@ -1,6 +1,6 @@
 ![bannerweb](https://github.com/angel-dev-projects/angel-dev-projects/blob/main/personal_banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=7843E9&random=false&width=435&lines=%C3%81NGEL+DE+LOS+R%C3%8DOS)](https://git.io/typing-svg) 👋💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=7843E9&random=false&width=435&lines=%C3%81NGEL+DE+LOS+R%C3%8DOS)](https://git.io/typing-svg)
 
 # **WHO AM I?**
 A Full Stack Web Developer with a focus on creating exceptional digital experiences
