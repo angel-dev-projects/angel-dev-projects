@@ -48,4 +48,4 @@ Write me! ☕
 
 # **Academic Background**
 - **Higher Degree in Web Application Development** - IES Alixar, Castilleja de la Cuesta, Seville, Spain
-- - **Backend Development Bootcamp** - Qualentum, Fully Remote
+- **Backend Development Bootcamp** - Qualentum, Fully Remote
